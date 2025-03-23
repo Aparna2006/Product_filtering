@@ -8,7 +8,7 @@ Product Filtering is a feature commonly used on e-commerce websites 🛒 that al
 - **Responsive Design**: The interface adjusts for different screen sizes to work on both desktop and mobile devices.
 
 ## Demo
-You can try out the demo of this project by visiting [Product-filtering](#) (Link to your live demo if you have one).
+You can try out the demo of this project by visiting [Product-filtering](https://aparna2006.github.io/Product_filtering/) (Link to your live demo if you have one).
 
 
 ## Technologies Used
